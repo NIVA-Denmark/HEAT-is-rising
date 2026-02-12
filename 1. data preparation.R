@@ -1,7 +1,5 @@
 #Preparation of the dataset for the assessment
 
-########################### PART 1 ##################################
-
 Sys.setlocale("LC_ALL", "en_US.UTF-8")
 
 #----Libraries-----
